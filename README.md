@@ -69,7 +69,9 @@ Pre-Refactored Macro Elapsed Time:
 ## Summary:
 
 1. What are the advantages or disadvantages of refactoring code?
+
 The primary advantage of refactoring the code is that it runs nearly 5x as fast as the original code. This would be very beneficial if we were to analyze many more data points. The main disadvantage would be the amount of code and the time it requires to refactor it.
 
 2. How do these pros and cons apply to refactorung the original VBA script?
-The con seems to have an outsized influence on this decision. Because the original code ran in under 1 second for both years' datasets, the original was still very fast. The amount of time it took to refactor the code in comparison to how much speed was gained, shows the refactoring code is unnessisary.
+
+The con seems to have an outsized influence on this decision. Because the original code ran in under 1 second for both years' datasets, the original remains very fast. The amount of time it took to refactor the code in comparison to how much speed was gained, shows the refactoring code is unnecessary.
