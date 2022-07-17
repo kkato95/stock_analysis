@@ -2,7 +2,7 @@
 
 ## Overview of Project:
 
-The purpose of this project is to analyze the 2017 and 2018 stock market data by building a refactored code, based on Module 2's practice code, which we will call the orginal code. The purpose of this refactored code is to achieve a faster processing speed by taking fewer steps, utilizing less memory, and improving the logic of the code. Our oringinal code analyzed the data for either the 217 or 2018 stock market data, then built a table that included the ticker, the total daily volume of that ticker, and the percent return achieved. 
+The purpose of this project is to analyze the 2017 and 2018 stock market data by building a refactored code, based on Module 2's practice code, which we will call the orginal code. The purpose of this refactored code is to achieve a faster processing speed by taking fewer steps, utilizing less memory, and improving the logic of the code. Our oringinal code analyzed the data for either the 2017 or 2018 stock market data, then built a table that included the ticker, the total daily volume of that ticker, and the percent return achieved. 
 
 ## Results: 
 
